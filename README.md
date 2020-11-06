@@ -41,4 +41,4 @@ Hi, I'm Nitin Ware, a life long Java Developer, Data Engineer, Machine Learning 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitinware&show_icons=true&hide_border=true&theme=tokyonight)
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitinware&show_icons=true&hide_border=true)
