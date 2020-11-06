@@ -17,7 +17,7 @@ Hi, I'm Nitin Ware, a life long Java Developer, Data Engineer, Machine Learning 
 --> 
 
 
-- 🔭 I’m currently working on ... Spark, DataFlow, Spring Boot, Microservices, Tensorflow, GCP!
+- 🔭 I’m currently working on ... Apache Spark, DataFlow, Spring Boot, Microservices, Tensorflow, GCP!
 - 🌱 I’m currently learning ... Deep Learning/ML!
 - 💬 Ask me about ... anything tech!
 - 📫 How to reach me: Follow me on these platforms! : Twitter : @nitinware / Linkedin : @nitinware / Github : @nitinware
