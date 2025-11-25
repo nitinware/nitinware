@@ -1,44 +1,93 @@
-### Hey 👋🏽, I'm Nitin Ware!
-<!-- <br/>
-<a href="https://twitter.com/NitinWare">
-  <img align="left" alt="Nitin Ware | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nitinware/">
-  <img align="left" alt="Nitin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
---> 
+# ⭐ Hey, I'm Nitin Ware  
+### Building AI Infrastructure • Scaling Kubernetes • Helping Developers Ship Reliable Systems
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nitinware.nitinware)
-Hi, I'm Nitin Ware, a life long Java Developer, Data Engineer, Machine Learning Enthusiast 🚀.
-<br />
 
-<!--
-**nitinware/nitinware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
+---
 
+## 🧩 What I Do  
+I'm a Lead Engineer at Salesforce specializing in **AI/ML infrastructure**, **Kubernetes-based model serving**, and **high-reliability distributed systems**.
 
-- 🔭 I’m currently working on ... Apache Spark, DataFlow, Spring Boot, Microservices, Tensorflow, GCP!
-- 🌱 I’m currently learning ... Deep Learning/ML!
-- 💬 Ask me about ... anything tech!
-- 📫 How to reach me: Follow me on these platforms! : Twitter : @nitinware / Linkedin : @nitinware / Github : @nitinware
+I spend most of my time:  
+- 🚀 Building **large-scale AI platforms** that power millions of predictions  
+- ⚡ Designing **high-performance model execution runtimes**  
+- 🛰️ Improving **service mesh, observability, caching & traffic reliability**  
+- 📚 Writing educational content that helps engineers solve complex infra problems  
+- 🤝 Supporting the developer community through clear examples, diagrams, and tutorials  
 
+---
 
-**Languages and Tools:**  
+## 🌟 Why I Love Contributing  
+I believe complex infrastructure concepts should be **simple, accessible, and enjoyable** for every developer.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+My work focuses on:  
+- Teaching Kubernetes, Istio, Redis, and AI inference in a **hands-on, practical way**  
+- Breaking down advanced systems into **clear, visual explanations**  
+- Sharing reusable patterns for **scaling distributed systems reliably**  
+- Helping teams adopt **MLOps, LLM runtimes, and agentic AI**  
+- Building knowledge that benefits **entire engineering communities**, not just one team  
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitinware&show_icons=true&hide_border=true)
+---
+
+## 🚀 Highlights  
+- 🔧 18+ years building production systems across **Salesforce, Home Depot, Bank of America, Morgan Stanley**  
+- 📦 Architected multi-tenant cache systems, high-scale model serving, and execution graphs  
+- 📘 Published technical articles for **DZone, IEEE Tech News, CACM (under review), InfoQ pipeline**  
+- 🧭 Known for creating **practical tutorials** on Istio, Kubernetes traffic, Ollama, Redis, and AI infra  
+- 🛠️ Contributor & supporter of the **Kubernetes ecosystem** and related infra tooling  
+- 🧠 Active member of **IEEE & ACM**, passionate about developer education  
+
+---
+
+## 🌱 Currently Working On  
+- **Agentic AI systems** & distributed runtimes  
+- **Green DevOps** (energy-aware autoscaling, Kepler, Scaphandre)  
+- **Local LLMs** & hybrid inference strategies  
+- **AI traffic management** with Istio + Envoy  
+- **Developer-first education** for Kubernetes & AI infra  
+
+---
+
+## 🧰 Languages & Tools  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+
+---
+
+## 📝 Latest Writing  
+I regularly publish deep-dive articles on:  
+- Kubernetes traffic engineering  
+- AI/ML model serving  
+- Local LLMs & inference optimization  
+- Service mesh reliability (Istio/Envoy)  
+- Distributed caching strategies  
+- AI infrastructure sustainability  
+
+If you’re building production systems, I write for **you**.
+
+---
+
+## 📫 Connect With Me  
+**Twitter/X:** @nitinware  
+**LinkedIn:** @nitinware  
+**GitHub:** @nitinware  
+
+---
+
+## ⭐ Want an Even More Specialized Version?  
+I can generate:  
+- A **GitHub Star nomination–optimized version**  
+- A version emphasizing **OSS impact**  
+- A version optimized for **recruiters + tech press**  
+- A version focused on **AI infra thought leadership**
+
+Just tell me your preferred angle!
