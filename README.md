@@ -82,12 +82,3 @@ If you’re building production systems, I write for **you**.
 - **GitHub:** [https://github.com/nitinware](https://github.com/nitinware)  
 
 ---
-
-## ⭐ Want an Even More Specialized Version?  
-I can generate:  
-- A **GitHub Star nomination–optimized version**  
-- A version emphasizing **OSS impact**  
-- A version optimized for **recruiters + tech press**  
-- A version focused on **AI infra thought leadership**
-
-Just tell me your preferred angle!
