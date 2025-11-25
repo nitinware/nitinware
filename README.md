@@ -77,9 +77,9 @@ If you’re building production systems, I write for **you**.
 ---
 
 ## 📫 Connect With Me  
-**Twitter/X:** @nitinware  
-**LinkedIn:** @nitinware  
-**GitHub:** @nitinware  
+- **Twitter/X:** [https://twitter.com/nitinware](https://twitter.com/nitinware)  
+- **LinkedIn:** [https://www.linkedin.com/in/nitinware/](https://www.linkedin.com/in/nitinware/)  
+- **GitHub:** [https://github.com/nitinware](https://github.com/nitinware)  
 
 ---
 
