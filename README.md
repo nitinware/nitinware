@@ -32,7 +32,7 @@ My work focuses on:
 ## 🚀 Highlights  
 - 🔧 18+ years building production systems across **Salesforce, Home Depot, Bank of America, Morgan Stanley**  
 - 📦 Architected multi-tenant cache systems, high-scale model serving, and execution graphs  
-- 📘 Published technical articles for **DZone, IEEE Tech News, CACM (under review), InfoQ pipeline**  
+- 📘 Published technical articles for **DZone**  
 - 🧭 Known for creating **practical tutorials** on Istio, Kubernetes traffic, Ollama, Redis, and AI infra  
 - 🛠️ Contributor & supporter of the **Kubernetes ecosystem** and related infra tooling  
 - 🧠 Active member of **IEEE & ACM**, passionate about developer education  
