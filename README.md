@@ -1,84 +1,30 @@
-# ⭐ Hey, I'm Nitin Ware  
-### Building AI Infrastructure • Scaling Kubernetes • Helping Developers Ship Reliable Systems
+# 👋 Hi, I'm Nitin Ware
 
-![](https://visitor-badge.glitch.me/badge?page_id=nitinware.nitinware)
+**AI Infrastructure | Kubernetes | Distributed Systems | Open Source**
 
----
+I'm a software engineer with **18+ years of experience** designing and building scalable, reliable production systems. My interests include **AI/ML infrastructure, Kubernetes, distributed systems, and cloud-native technologies**.
 
-## 🧩 What I Do  
-I'm a Lead Engineer at Salesforce specializing in **AI/ML infrastructure**, **Kubernetes-based model serving**, and **high-reliability distributed systems**.
+### 🚀 What I Work On
+- **AI/ML Infrastructure:** Model serving, inference optimization, LLM runtimes, and agentic AI
+- **Cloud Native:** Kubernetes, Istio, Envoy, and traffic management
+- **Distributed Systems:** Caching, observability, performance, and reliability
+- **Sustainable Infrastructure:** Energy-aware autoscaling and efficient resource utilization
 
-I spend most of my time:  
-- 🚀 Building **large-scale AI platforms** that power millions of predictions  
-- ⚡ Designing **high-performance model execution runtimes**  
-- 🛰️ Improving **service mesh, observability, caching & traffic reliability**  
-- 📚 Writing educational content that helps engineers solve complex infra problems  
-- 🤝 Supporting the developer community through clear examples, diagrams, and tutorials  
+### 🌱 Open Source & Community
+- Contributing to cloud-native and distributed systems projects
+- Exploring Kubernetes performance, scalability, and resource efficiency
+- Writing practical technical articles, tutorials, and engineering deep dives
+- Sharing reusable patterns and lessons from building production systems
 
----
+### 🛠️ Tech Stack
+**Languages:** Java, Python  
+**Infrastructure:** Kubernetes, Docker, Istio, Envoy  
+**AI/ML:** LLMs, Model Serving, MLOps  
+**Data & Cloud:** Redis, AWS, GCP  
+**Tools:** Git, Spring Boot, Observability
 
-## 🌟 Why I Love Contributing  
-I believe complex infrastructure concepts should be **simple, accessible, and enjoyable** for every developer.
+### ✍️ Writing & Interests
+Kubernetes • AI Inference • Distributed Systems • Service Mesh • Performance Engineering • Green DevOps
 
-My work focuses on:  
-- Teaching Kubernetes, Istio, Redis, and AI inference in a **hands-on, practical way**  
-- Breaking down advanced systems into **clear, visual explanations**  
-- Sharing reusable patterns for **scaling distributed systems reliably**  
-- Helping teams adopt **MLOps, LLM runtimes, and agentic AI**  
-- Building knowledge that benefits **entire engineering communities**, not just one team  
-
----
-
-## 🚀 Highlights  
-- 🔧 18+ years building production systems across **Salesforce, Home Depot, Bank of America, Morgan Stanley**  
-- 📦 Architected multi-tenant cache systems, high-scale model serving, and execution graphs  
-- 📘 Published technical articles for **DZone**  
-- 🧭 Known for creating **practical tutorials** on Istio, Kubernetes traffic, Ollama, Redis, and AI infra  
-- 🛠️ Contributor & supporter of the **Kubernetes ecosystem** and related infra tooling  
-- 🧠 Active member of **IEEE & ACM**, passionate about developer education  
-
----
-
-## 🌱 Currently Working On  
-- **Agentic AI systems** & distributed runtimes  
-- **Green DevOps** (energy-aware autoscaling, Kepler, Scaphandre)  
-- **Local LLMs** & hybrid inference strategies  
-- **AI traffic management** with Istio + Envoy  
-- **Developer-first education** for Kubernetes & AI infra  
-
----
-
-## 🧰 Languages & Tools  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-
----
-
-## 📝 Latest Writing  
-I regularly publish deep-dive articles on:  
-- Kubernetes traffic engineering  
-- AI/ML model serving  
-- Local LLMs & inference optimization  
-- Service mesh reliability (Istio/Envoy)  
-- Distributed caching strategies  
-- AI infrastructure sustainability  
-
-If you’re building production systems, I write for **you**.
-
----
-
-## 📫 Connect With Me  
-- **Twitter/X:** [https://twitter.com/nitinware](https://twitter.com/nitinware)  
-- **LinkedIn:** [https://www.linkedin.com/in/nitinware/](https://www.linkedin.com/in/nitinware/)  
-- **GitHub:** [https://github.com/nitinware](https://github.com/nitinware)  
-
----
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nitinware/) • [GitHub](https://github.com/nitinware) • [Twitter/X](https://twitter.com/nitinware)
