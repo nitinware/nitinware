@@ -8,13 +8,6 @@ I'm a software engineer with **18+ years of experience** designing and building 
 - **AI/ML Infrastructure:** Model serving, inference optimization, LLM runtimes, and agentic AI
 - **Cloud Native:** Kubernetes, Istio, Envoy, and traffic management
 - **Distributed Systems:** Caching, observability, performance, and reliability
-- **Sustainable Infrastructure:** Energy-aware autoscaling and efficient resource utilization
-
-### 🌱 Open Source & Community
-- Contributing to cloud-native and distributed systems projects
-- Exploring Kubernetes performance, scalability, and resource efficiency
-- Writing practical technical articles, tutorials, and engineering deep dives
-- Sharing reusable patterns and lessons from building production systems
 
 ### 🛠️ Tech Stack
 **Languages:** Java, Python  
@@ -24,7 +17,7 @@ I'm a software engineer with **18+ years of experience** designing and building 
 **Tools:** Git, Spring Boot, Observability
 
 ### ✍️ Writing & Interests
-Kubernetes • AI Inference • Distributed Systems • Service Mesh • Performance Engineering • Green DevOps
+Kubernetes • AI Inference • Distributed Systems • Service Mesh • Performance Engineering • DevOps
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/nitinware/) • [GitHub](https://github.com/nitinware) • [Twitter/X](https://twitter.com/nitinware)
